@@ -1,0 +1,121 @@
+.main {
+    padding: 0 8%;
+    box-sizing: border-box;
+}
+
+.box {
+    border: 2px rgb(150, 59, 59) solid;
+    text-align: center;
+    padding: 50px;
+    margin: 5px;
+}
+
+
+/* First Box Styles*/
+.title {
+    text-align: left;
+    padding-left: 5%;
+    font-size: 20px;
+}
+
+.contentbox {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    padding: 5%;
+    margin: 10px 0;
+}
+
+.c1 {
+    background-color:rgba(224, 186, 16, 0.979);
+}
+
+.c1 p {
+    margin: 0;
+    padding: 0;
+    color: rgb(209, 94, 94);
+    margin-top: 30px;
+    
+}
+
+.c2 {
+    background-color: #0e1464;
+}
+
+.c2 p {
+    margin: 0;
+    padding: 0;
+    color: rgb(209, 94, 94);
+    margin-top: 30px;
+    
+}
+
+.c3 {
+    background-color: #59e408;
+}
+
+.c3 p {
+    margin: 0;
+    padding: 0;
+    color: rgb(209, 94, 94);
+    margin-top: 30px;
+    
+}
+
+.c4 {
+    background-color: rgb(19, 133, 199);
+}
+
+.c4 p {
+    margin: 0;
+    padding: 0;
+    color: rgb(209, 94, 94);
+    margin-top: 30px;
+    
+}
+
+.c5 {
+    background-color: #740da3;
+}
+
+.c5 p {
+    margin: 0;
+    padding: 0;
+    color: rgb(209, 94, 94);
+    margin-top: 30px;
+    
+}
+
+.c6 {
+    background-color: #9b092d;
+}
+
+.c6 p {
+    margin: 0;
+    padding: 0;
+    color: rgb(209, 94, 94);
+    margin-top: 30px;
+    
+}
+
+/*Second Box Styles*/
+
+.box2 {
+    width: 1008px;
+    border: 2px solid black;
+}
+
+.title-box {
+    margin-top: 0px;
+    text-align: left;
+    font-size: 25px;
+}
+
+.font-box {
+    border: 1px black solid;
+    margin-top: 8px;
+    padding-bottom: 10px;
+}
+.font-box h4 {
+    font-size: 30px;
+}
